@@ -1,4 +1,2 @@
-The minimal sentence here.
-The next line is about mars:
-Mars is our next planet.
-Man, what should I write next?
+the minimal sentence here.
+the next line is about mars:
